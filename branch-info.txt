@@ -8,12 +8,14 @@ Branches in this repo (with details):
     9a0b3bb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T15:02:48Z | Auto-update branch-info.txt
     a12a75c | Author: Zackery Dumas <zdumas1@emich.edu> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T11:02:36-04:00 | Initial commit
 - main
-  SHA: 8086d08b843127482a146194cfc3a6e475445303
-  Commits: 3
+  SHA: 614c91ffcbbf8399dae1cb8d589137214cb09f96
+  Commits: 6
   Recent commits:
+    614c91f | Author: zdumas1 <zdumas1@emich.edu> | Committer: zdumas1 <zdumas1@emich.edu> | Date: 2025-09-16T11:39:27-04:00 | Merging branch
+    da7f9cf | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T15:36:00Z | Auto-update branch-info.txt
+    eeeb801 | Author: zdumas1 <zdumas1@emich.edu> | Committer: zdumas1 <zdumas1@emich.edu> | Date: 2025-09-16T15:34:28Z | Adding villain path explanation to readme
     8086d08 | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T15:27:35Z | Auto-update branch-info.txt
     9a0b3bb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T15:02:48Z | Auto-update branch-info.txt
-    a12a75c | Author: Zackery Dumas <zdumas1@emich.edu> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T11:02:36-04:00 | Initial commit
 - villain-path
   SHA: eeeb801f936deafb4b14f0a47d9066da3edc2cbc
   Commits: 4
