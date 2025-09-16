@@ -1,7 +1,15 @@
 Branches in this repo (with details):
 
-- main
-  SHA: a12a75c1400bd088ae1987ae4fa9c7b0da2d9cc8
-  Commits: 1
+- hero-path
+  SHA: be87a901ca5ea9bf84617ca021480fd80102cc21
+  Commits: 3
   Recent commits:
+    be87a90 | Author: zdumas1 <zdumas1@emich.edu> | Committer: zdumas1 <zdumas1@emich.edu> | Date: 2025-09-16T15:27:06Z | Hero path. Adding for if you go left
+    9a0b3bb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T15:02:48Z | Auto-update branch-info.txt
+    a12a75c | Author: Zackery Dumas <zdumas1@emich.edu> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T11:02:36-04:00 | Initial commit
+- main
+  SHA: 9a0b3bbe0a6aefd854c39da12898f56b5ddefca0
+  Commits: 2
+  Recent commits:
+    9a0b3bb | Author: GitHub Actions <actions@github.com> | Committer: GitHub Actions <actions@github.com> | Date: 2025-09-16T15:02:48Z | Auto-update branch-info.txt
     a12a75c | Author: Zackery Dumas <zdumas1@emich.edu> | Committer: GitHub <noreply@github.com> | Date: 2025-09-16T11:02:36-04:00 | Initial commit
